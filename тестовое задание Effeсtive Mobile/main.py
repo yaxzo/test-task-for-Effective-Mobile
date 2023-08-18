@@ -81,7 +81,7 @@ argparser.add_argument("-a", # аргумент-флаг для создания
                        help="Необязательный аргумент, который указывает на то, что контакт записывают в справочник.",)
 
 argparser.add_argument("-sc", # аргумент-флаг для поиска контакта
-                       "--searchcontac",
+                       "--searchcontact",
                        action="store_true",
                        dest="search_contact",
                        help="Аргумент, который указывает на то, что контакта ищут по критериям. ",)
