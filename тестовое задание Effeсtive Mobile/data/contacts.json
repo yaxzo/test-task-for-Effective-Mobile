@@ -1,12 +1,12 @@
 {
   "contacts": [
     {
-      "surname": "Иванов",
-      "name": "Иван",
-      "patronymic": "Иванович",
-      "organization": "EffectiveMobile",
-      "personal phone number": "+79522487441",
-      "work phone number": "+78984599731"
+      "surname": "иванов",
+      "name": "иван",
+      "patronymic": "иванович",
+      "organization": "Yandex",
+      "personal phone number": "+79999999999",
+      "work phone number": "+79999998888"
     }
   ]
 }
