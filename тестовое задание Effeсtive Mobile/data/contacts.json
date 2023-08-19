@@ -1,12 +1,124 @@
 {
   "contacts": [
     {
+      "surname": "Иванов",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "organization": "Yandex",
+      "personal phone number": "+79999999999",
+      "work phone number": "+79999998888"
+    },
+    {
+      "surname": "Петров",
+      "name": "Петр",
+      "patronymic": "Петрович",
+      "organization": "Google",
+      "personal phone number": "+78888888888",
+      "work phone number": "+78888887777"
+    },
+    {
+      "surname": "Сидоров",
+      "name": "Сидор",
+      "patronymic": "Сидорович",
+      "organization": "Google",
+      "personal phone number": "+77777777777",
+      "work phone number": "+77777776666"
+    },
+    {
+      "surname": "Козлов",
+      "name": "Козма",
+      "patronymic": "Козмович",
+      "organization": "Apple",
+      "personal phone number": "+76666666666",
+      "work phone number": "+76666665555"
+    },
+    {
+      "surname": "Васильев",
+      "name": "Василий",
+      "patronymic": "Васильевич",
+      "organization": "Amazon",
+      "personal phone number": "+75555555555",
+      "work phone number": "+75555554444"
+    },
+    {
+      "surname": "Николаев",
+      "name": "Николай",
+      "patronymic": "Николаевич",
+      "organization": "Facebook",
+      "personal phone number": "+74444444444",
+      "work phone number": "+74444443333"
+    },
+    {
+      "surname": "Кузнецов",
+      "name": "Кузьма",
+      "patronymic": "Кузьмич",
+      "organization": "Twitter",
+      "personal phone number": "+73333333333",
+      "work phone number": "+73333332222"
+    },
+    {
+      "surname": "Лебедев",
+      "name": "Лебедь",
+      "patronymic": "Лебедевич",
+      "organization": "Netflix",
+      "personal phone number": "+72222222222",
+      "work phone number": "+72222221111"
+    },
+    {
+      "surname": "Соколов",
+      "name": "Сокол",
+      "patronymic": "Соколович",
+      "organization": "Uber",
+      "personal phone number": "+71111111111",
+      "work phone number": "+71111110000"
+    },
+    {
+      "surname": "Попов",
+      "name": "Поп",
+      "patronymic": "Попович",
+      "organization": "Airbnb",
+      "personal phone number": "+70000000000",
+      "work phone number": "+70000009999"
+    },
+    {
+      "surname": "Михайлов",
+      "name": "Михаил",
+      "patronymic": "Михайлович",
+      "organization": "Tesla",
+      "personal phone number": "+68888888888",
+      "work phone number": "+68888887777"
+    },
+    {
+      "surname": "Федоров",
+      "name": "Федор",
+      "patronymic": "Федорович",
+      "organization": "SpaceX",
+      "personal phone number": "+67777777777",
+      "work phone number": "+67777776666"
+    },
+    {
+      "surname": "Морозов",
+      "name": "Мороз",
+      "patronymic": "Морозович",
+      "organization": "Samsung",
+      "personal phone number": "+66666666666",
+      "work phone number": "+66666665555"
+    },
+    {
+      "surname": "Волков",
+      "name": "Волк",
+      "patronymic": "Волкович",
+      "organization": "Sony",
+      "personal phone number": "+65555555555",
+      "work phone number": "+65555554444"
+    },
+    {
       "surname": "иванов",
       "name": "иван",
       "patronymic": "иванович",
       "organization": "Yandex",
       "personal phone number": "+79999999999",
-      "work phone number": "+79999998888"
+      "work phone number": "+79999999999"
     }
   ]
 }
